@@ -1,0 +1,18 @@
+.header-photo {
+  width: 1640px;
+  height: 613px;
+  margin: auto 140px;
+}
+header a {
+  display: inline-block;
+  margin: auto 53px;
+  margin-bottom: 73px;
+  margin-top: 73px;
+  color: #707070;
+  font-size: 20px;
+  text-decoration: none;
+  text-align: left;
+}
+div {
+  margin: auto 140px;
+}
