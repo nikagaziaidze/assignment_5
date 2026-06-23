@@ -1,7 +1,6 @@
 .container {
   width: 100%;
   max-width: 1640px;
-  /* background-color: #ffabab; */
   margin: 0 auto;
 }
 .header {
@@ -30,8 +29,7 @@ div {
   display: inline-block;
   margin: 0;
   margin-top: 70px;
-  /* background-color: #f1ffa3; */
-  margin-right: 60px;
+  margin-left: 60px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
 }
 .card a {
@@ -52,4 +50,19 @@ div {
   display: block;
   text-align: center;
   margin-top: 56px;
+}
+.footer-info {
+  background-color: #2e2e2e;
+  margin-top: 68px;
+}
+.info {
+  display: inline-block;
+  margin-left: 200px;
+  color: #ffff;
+}
+footer img {
+  width: 44px;
+  display: inline-block;
+  color: #ffff;
+  margin-left: 20px;
 }
