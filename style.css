@@ -50,6 +50,7 @@ div {
   display: block;
   text-align: center;
   margin-top: 56px;
+  font-family: "font1";
 }
 .footer-info {
   background-color: #2e2e2e;
@@ -65,4 +66,12 @@ footer img {
   display: inline-block;
   color: #ffff;
   margin-left: 20px;
+}
+section h2 {
+  font-family: "BPG Glaho Bold", sans-serif;
+}
+
+@font-face {
+  font-family: "font1";
+  src: url("./fonts/SmoochSans-VariableFont_wght.ttf");
 }
